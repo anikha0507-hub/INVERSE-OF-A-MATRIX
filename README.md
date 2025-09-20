@@ -10,7 +10,7 @@ To write a python program to find the inverse of a matrix
 ### Step 3: using the np.linalg,inv(), find the inverse of a
 ### Step 4: end the program
 
-## Program:<img width="978" height="263" alt="image" src="https://github.com/user-attachments/assets/c664a775-9038-4e6f-8274-be2b66bcfec0" />
+## Program:<img width="635" height="258" alt="image" src="https://github.com/user-attachments/assets/473d48b3-2ea4-43bc-84a2-062769354d95" />
 
 ## Output:<img width="977" height="262" alt="image" src="https://github.com/user-attachments/assets/fa68e5c8-f523-40c5-b582-a7c2213c9245" />
 
